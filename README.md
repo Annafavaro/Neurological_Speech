@@ -1,7 +1,7 @@
 # Neurological_Speech
 
 The Neurological_Speech Repository is a public open-source implementation that supports the extraction of cognitive, linguistic and acoustic features from speech recordings. This project has the aim of designing, extracting and analyzing speech and language production of subjects with different neurological disorders. 
-In this repository we report the code that support the **feature extraction** and that for the **statistical analysis** that we perform to evaluate the significance of the features between experimental groups.
+In this repository we report the code that supports both the **feature extraction** and the the **statistical analysis** that we perform to evaluate the significance of the features between experimental groups.
  
 ## Feature Extraction 
 
@@ -19,4 +19,4 @@ For the extraction of part of the the cognitive features we use a pre-trained co
 
 ## Feature Analysis 
 
-We report the pipeline for the statistical analysis meant to asses the significance of the features between experimental groups. 
+We report an example of the statistical analysis that we perform in order to asses the significance of the features between experimental groups. 
